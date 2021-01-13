@@ -1,0 +1,16 @@
+{
+  "name": "socket-backend",
+  "version": "1.0.0",
+  "description": "chat api backend for my app",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon server.js"
+  },
+  "author": "Fraz Anwer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "socket.io": "^3.0.5"
+  }
+}
